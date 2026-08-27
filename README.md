@@ -4,7 +4,7 @@ This project explores different **agentic Retrieval-Augmented Generation (RAG) a
 
 ## Project Structure
 
-### `agent.py`
+### `agents.py`
 
 Contains the different **agents** required for the experiments. These agents implement the various roles and behaviors used across the agentic RAG architectures.
 
