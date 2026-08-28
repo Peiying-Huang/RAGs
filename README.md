@@ -19,6 +19,7 @@ Contains the retrieval components used by the experiments:
 * **BM25 retriever** — a traditional lexical retrieval method based on term matching.
 * **Embedding retriever** — a semantic retrieval method based on vector embeddings.
 * **Hybrid search retriever** — combines lexical and semantic retrieval to improve search performance.
+* **Document retriever** — retrieves the documents by the document ids.
 
 ### `rags.py`
 
@@ -26,5 +27,5 @@ Combines the agents, prompts, and retrievers defined in the other modules to imp
 
 ## Goal
 
-The primary goal of this project is to **explore and compare different agentic RAG architectures**, using different combinations of agents and retrieval strategies to understand their behavior and effectiveness across experiments.
+The primary goal of this project is to **explore and compare different agentic RAG architectures**, using different combinations of agents to understand their performance across experiments.
 
