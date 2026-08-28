@@ -1,6 +1,6 @@
 # Agentic RAG Architectures
 
-This project explores different **agentic Retrieval-Augmented Generation (RAG) architectures** through a set of modular components and experiments.
+This project explores different **agentic Retrieval-Augmented Generation (RAG) architectures** through a set of modular components and experiments. Due to the data protection policy, the dataset (QA pairs), local BM25 database, and embedding vector store (embedded with text-embedding-3-small) are not provided. 
 
 ## Project Structure
 
